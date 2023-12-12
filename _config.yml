@@ -1,7 +1,7 @@
-title: Fast Diffusion Model for Singing Voice Beautifying
+title: MobileSpeech: A Fast and High-Filelity Framework for Mobile Zero-Shot Text-to-Speech
 # description: Xulong Zhang
 
 theme: jekyll-theme-cayman
 
 github:
-  repository_url: https://github.com/DiffBeautifier/
+  repository_url: https://github.com/MobileSpeech/
