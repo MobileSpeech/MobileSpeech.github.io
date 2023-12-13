@@ -1,9 +1,11 @@
-<p align="justify"></p>
 
-## Mobile Product Link for MobileSpeech
+## Tips🎉🎉🎉: Mobile Product Link for MobileSpeech
 <p align="justify">
-<b>After the anonymous period, we will provide the link to the mobile product that has been equipped with MobileSpeech.</b>
+<b>MobileSpeech has been incorporated into the newly released mobile phones. MobileSpeech will serve as a component of products such as voice broadcasting, virtual digital assistants, and personalized speech synthesis, and is anticipated to be utilized by several hundred thousand users. However, due to the anonymous policy, we are currently unable to provide the relevant links to the mobile phones. Once the anonymous period concludes, we will furnish the link to the mobile product equipped with MobileSpeech.</b>
+<br>
+<br>
 </p>
+
 
 ## Overview
 <p align="justify">
