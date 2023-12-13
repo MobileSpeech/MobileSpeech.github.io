@@ -1,4 +1,6 @@
-<p align="justify"></p>
+<p align="justify">
+<b>After the anonymous period, we will provide the link to the mobile device that has been equipped with MobileSpeech.</b>
+</p>
 
 ## Overview
 <p align="justify">
