@@ -9,6 +9,15 @@
 </p>
 
 
+
+## Some experimental conclusions on mobile phones
+<p align="justify">
+<b>In the paper, the majority of our experiments were conducted using the A100. Here, we present some results pertaining to the mobile domain. Through our experimentation, it was observed that, with a slight compromise in accuracy, the real-time factor (RTF) of MobileSpeech deployed on mobile chips ranged approximately between 0.8 and 1.0, while satisfying the operational memory requirements of the mobile platform. When the model parameter size exceeds 400M, it becomes challenging to deploy on mobile devices, thus emphasizing the suitability of the lightweight MobileSpeech model in meeting deployment space constraints.</b>
+<br>
+<br>
+</p>
+
+
 ## Overview
 <p align="justify">
 Zero-shot text-to-speech (TTS) has gained significant attention due to its powerful voice cloning capabilities, requiring only a few seconds of unseen speaker voice prompts. However, all previous work has been developed for cloud-based systems. Taking autoregressive models as an example, although these approaches achieve high-fidelity voice cloning, they fall short in terms of inference speed, model size, and robustness. Therefore, we propose MobileSpeech , which is a fast, lightweight, and robust zero-shot text-to-speech system based on mobile devices for the first time. Specifically: 1) leveraging discrete codec, we design a parallel speech mask decoder module called SMD, which incorporates hierarchical information from the speech codec and weight mechanisms across different codec layers during the generation process. Moreover, to bridge the gap between text and speech, we introduce a lower-level probabilistic mask that captures the progression of information flow from less to more during speech generation. 2) For speaker prompts, we extract fine-grained prompt duration from the prompt speech and incorporate text, prompt speech by cross attention in SMD. We demonstrate the effectiveness of MobileSpeech on multilingual datasets at different levels, achieving state-of-the-art results in terms of generating speed and speech quality. MobileSpeech achieves RTF of 0.2 on a single A100 GPU and we have successfully deployed MobileSpeech on mobile devices.
