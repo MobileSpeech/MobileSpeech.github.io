@@ -1,5 +1,10 @@
+<p align="justify"></p>
+
+## Mobile Product Link for MobileSpeech
 <p align="justify">
-<b>After the anonymous period, we will provide the link to the mobile device that has been equipped with MobileSpeech.</b>
+<b>After the anonymous period, we will provide the link to the mobile product that has been equipped with MobileSpeech.</b>
+<br>
+<br>
 </p>
 
 ## Overview
