@@ -790,16 +790,7 @@ table {
 ## Chinese Speech Samples
 
 <p>&nbsp;</p> 
-1.最长的一次，不见头尾的运煤车堵了七天七夜。<br>
-<table>
-    <tr>
-        <th> MobileSpeech</th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80064_000092_infer.wav" type="audio/mpeg"></audio> </th>
-    </tr>
-</table>
-
-<p>&nbsp;</p> 
-2.今后我们要加强和发达地区的交流与合作，共同开发，尽快把内蒙古经济搞上去。<br>
+1.今后我们要加强和发达地区的交流与合作，共同开发，尽快把内蒙古经济搞上去。<br>
 <table>
     <tr>
         <th> MobileSpeech</th>
@@ -808,52 +799,7 @@ table {
 </table>
 
 <p>&nbsp;</p> 
-3.教育发展的平衡是相对的，不平衡是绝对的。<br>
-<table>
-    <tr>
-        <th> MobileSpeech</th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80064_000121_infer.wav" type="audio/mpeg"></audio> </th>
-    </tr>
-</table>
-
-<p>&nbsp;</p> 
-4.冬季，是搞农田水利基本建设的黄金季节。<br>
-<table>
-    <tr>
-        <th> MobileSpeech</th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80064_000122_infer.wav" type="audio/mpeg"></audio> </th>
-    </tr>
-</table>
-
-<p>&nbsp;</p> 
-5.看到孩子们欢乐的笑脸，员工们也欣慰地笑了。<br>
-<table>
-    <tr>
-        <th> MobileSpeech</th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80064_000183_infer.wav" type="audio/mpeg"></audio> </th>
-    </tr>
-</table>
-
-<p>&nbsp;</p> 
-6.现在中国的外汇储备是正常的。<br>
-<table>
-    <tr>
-        <th> MobileSpeech</th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80065_000161_infer.wav" type="audio/mpeg"></audio> </th>
-    </tr>
-</table>
-
-<p>&nbsp;</p> 
-7.没有长征的胜利，就没有今天的新中国。<br>
-<table>
-    <tr>
-        <th> MobileSpeech</th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80065_000184_infer.wav" type="audio/mpeg"></audio> </th>
-    </tr>
-</table>
-
-<p>&nbsp;</p> 
-8.话题有些扯远了，咱们还是谈谈你的现状吧。<br>
+2.话题有些扯远了，咱们还是谈谈你的现状吧。<br>
 <table>
     <tr>
         <th> MobileSpeech</th>
@@ -862,7 +808,7 @@ table {
 </table>
 
 <p>&nbsp;</p> 
-9.财产所有权转移了，其风险责任也随之转移。<br>
+3.财产所有权转移了，其风险责任也随之转移。<br>
 <table>
     <tr>
         <th> MobileSpeech</th>
@@ -871,10 +817,64 @@ table {
 </table>
 
 <p>&nbsp;</p> 
-10.谭彦作为一个人民法官，达到了这样的境界。<br>
+4.我们几个人你看看我，我看看你，一筹莫展。<br>
 <table>
     <tr>
         <th> MobileSpeech</th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80067_000102_infer.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80069_000051_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+<p>&nbsp;</p> 
+5.达成意向的有二十四个单位，涉及十九个项目，两百九十二名运动员。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80073_000161_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+<p>&nbsp;</p> 
+6.图为喇叭哥在用吼声执法。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80074_000164_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+<p>&nbsp;</p> 
+7.我并不知道老舍茶馆的花茶是怎么泡出来的，但是我不怀疑这里面的功夫，就是这样。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80076_000042_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+<p>&nbsp;</p> 
+8.喷完一片再挂一片，保证一棵树不丢，下树时，蕙莲崴了脚，痛得像刀剜，半小时后肿得像馒头。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80076_000137_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+<p>&nbsp;</p> 
+9.女人渐渐爱上了老汉，这爱滋润老汉干枯的生命变得鲜活起来，不料，秋收打场过后，女人却出于无奈悄悄离开了老汉。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80078_000002_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+<p>&nbsp;</p> 
+10.往前走，家庭皮鞋作坊里机声踏踏，鱼塘上阳光布洒每个家庭，每座小院，都成了农工们各显神通的舞台。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80079_000014_infer.wav" type="audio/mpeg"></audio> </th>
     </tr>
 </table>
