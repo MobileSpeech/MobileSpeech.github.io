@@ -787,3 +787,94 @@ table {
     </tr>	
 </table>
 
+## Chinese Speech Samples
+
+<p>&nbsp;</p> 
+1.最长的一次，不见头尾的运煤车堵了七天七夜。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80064_000092_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+<p>&nbsp;</p> 
+2.今后我们要加强和发达地区的交流与合作，共同开发，尽快把内蒙古经济搞上去。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80064_000110_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+<p>&nbsp;</p> 
+3.教育发展的平衡是相对的，不平衡是绝对的。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80064_000121_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+<p>&nbsp;</p> 
+4.冬季，是搞农田水利基本建设的黄金季节。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80064_000122_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+<p>&nbsp;</p> 
+5.看到孩子们欢乐的笑脸，员工们也欣慰地笑了。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80064_000183_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+<p>&nbsp;</p> 
+6.现在中国的外汇储备是正常的。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80065_000161_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+<p>&nbsp;</p> 
+7.没有长征的胜利，就没有今天的新中国。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80065_000184_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+<p>&nbsp;</p> 
+8.话题有些扯远了，咱们还是谈谈你的现状吧。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80065_000189_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+<p>&nbsp;</p> 
+9.财产所有权转移了，其风险责任也随之转移。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80065_000196_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+<p>&nbsp;</p> 
+10.谭彦作为一个人民法官，达到了这样的境界。<br>
+<table>
+    <tr>
+        <th> MobileSpeech</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80067_000102_infer.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
