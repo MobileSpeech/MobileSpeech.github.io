@@ -1,18 +1,9 @@
 
 
 <p></p>
-## Tips🎉🎉🎉: Mobile Product Link for MobileSpeech
+## Tips🎉🎉🎉: Mobile Product Link for MobileSpeech (It will be released on February 15th)
 <p align="justify">
 <b>MobileSpeech has been incorporated into the newly released mobile phones. MobileSpeech will serve as a component of products such as voice broadcasting, virtual digital assistants, and personalized speech synthesis, and is anticipated to be utilized by several hundred thousand users. However, due to the anonymous policy, we are currently unable to provide the relevant links to the mobile phones. Once the anonymous period concludes, we will furnish the link to the mobile product equipped with MobileSpeech.</b>
-<br>
-<br>
-</p>
-
-
-
-## Some experimental conclusions on mobile phones
-<p align="justify">
-<b>In the paper, the majority of our experiments were conducted using the A100. Here, we present some results pertaining to the mobile domain. Through our experimentation, it was observed that, with a slight compromise in accuracy, the real-time factor (RTF) of MobileSpeech deployed on mobile chips ranged approximately between 0.8 and 1.0, while satisfying the operational memory requirements of the mobile platform. When the model parameter size exceeds 400M, it becomes challenging to deploy on mobile devices, thus emphasizing the suitability of the lightweight MobileSpeech model in meeting deployment space constraints.</b>
 <br>
 <br>
 </p>
