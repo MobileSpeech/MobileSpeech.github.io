@@ -799,11 +799,11 @@ table {
 </table>
 
 <p>&nbsp;</p> 
-2.话题有些扯远了，咱们还是谈谈你的现状吧。<br>
+2.据了解，天津市今年粮食种植面积达六百六十五万亩，预计全年粮食总产量可达二十点七五亿公斤，比去年提高百分之九。<br>
 <table>
     <tr>
         <th> MobileSpeech</th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80065_000189_infer.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/good_spk_80064_000000.wav" type="audio/mpeg"></audio> </th>
     </tr>
 </table>
 
@@ -844,20 +844,20 @@ table {
 </table>
 
 <p>&nbsp;</p> 
-7.我并不知道老舍茶馆的花茶是怎么泡出来的，但是我不怀疑这里面的功夫，就是这样。<br>
+7.而是为了调整产业结构和所有制结构，更好地发展社会生产力。<br>
 <table>
     <tr>
         <th> MobileSpeech</th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80076_000042_infer.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/good_spk_80076_000068.wav" type="audio/mpeg"></audio> </th>
     </tr>
 </table>
 
 <p>&nbsp;</p> 
-8.喷完一片再挂一片，保证一棵树不丢，下树时，蕙莲崴了脚，痛得像刀剜，半小时后肿得像馒头。<br>
+8.有位长者被挤得东歪西倒，手上还紧紧拖着一只折叠的简易行李车，车上捆着两三个大行李袋。<br>
 <table>
     <tr>
         <th> MobileSpeech</th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80076_000137_infer.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/good_spk_80070_000029.wav" type="audio/mpeg"></audio> </th>
     </tr>
 </table>
 
@@ -866,7 +866,7 @@ table {
 <table>
     <tr>
         <th> MobileSpeech</th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/spk_80078_000002_infer.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/good_spk_80065_000002.wav" type="audio/mpeg"></audio> </th>
     </tr>
 </table>
 
