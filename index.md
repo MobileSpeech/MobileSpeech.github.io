@@ -839,7 +839,7 @@ table {
 <table>
     <tr>
         <th> MobileSpeech</th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/good_spk_80076_000068.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/good_spk_80067_000068.wav" type="audio/mpeg"></audio> </th>
     </tr>
 </table>
 
