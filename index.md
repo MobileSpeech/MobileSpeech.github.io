@@ -1,13 +1,13 @@
 
 
 <p></p>
-## Tips🎉🎉🎉: Mobile Product Link for MobileSpeech (It will be released on February 15th)
-<p align="justify">
+## Tips🎉🎉🎉: [Mobile Product Link](https://www.hihonor.com/cn/phones/honor-magic6-pro/) for MobileSpeech
+<!-- <p align="justify">
 <b>MobileSpeech has been incorporated into the newly released mobile phones. MobileSpeech will serve as a component of products such as voice broadcasting, virtual digital assistants, and personalized speech synthesis, and is anticipated to be utilized by several hundred thousand users. However, due to the anonymous policy, we are currently unable to provide the relevant links to the mobile phones. Once the anonymous period concludes, we will furnish the link to the mobile product equipped with MobileSpeech.</b>
 <br>
 <br>
 </p>
-
+ -->
 
 ## Overview
 <p align="justify">
